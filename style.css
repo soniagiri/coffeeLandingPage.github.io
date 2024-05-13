@@ -217,7 +217,7 @@ nav {
 }
 
 .section-content p {
-  width: var(--paragraph);
+  max-width: var(--paragraph);
   color: white;
   font-family: var(--ff-secondary);
   line-height: 20px;
